@@ -16,6 +16,11 @@
             "headerTitle": "Education"
         },
         {
+            "component": "Dog",
+            "path": "/dog",
+            "headerTitle": "Dog"
+        },
+        {
             "component": "Experience",
             "path": "/experience",
             "headerTitle": "Experience"
