@@ -5,8 +5,9 @@
             "subtitle": "Paycom",
             "workType": "Internship",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Implemented the ability for users to share their screen with a customer service employee from Paycom’s client web pages",
+                "Added a recording option to save webpage sharing sessions to Paycom’s servers",
+                "Managed the SQL database for our project and implemented SQL queries to the backend server"
             ],
             "dateText": "2021"
         },
@@ -15,7 +16,10 @@
             "subtitle": "Favor",
             "workType": "Internship",
             "workDescription": [
-                "Fully deploy"
+                "Reduced Favor’s response time through the addition of ETag headers and Cache-Control Headers via middleware and a new response interface that is used widely on all core services",
+                "Worked with large datasets to group users based on value to the company and implemented this cohosting in marketing tools",
+                "Implemented custom events and listeners and published these events to marketing tools",
+                "Fixed vulnerabilities in services to prevent outages"
             ],
             "dateText": "2019-2020"
         }
