@@ -39,7 +39,7 @@
     ]
   },
   "scripts": {
-    "prebuild": "npm install --force",
+    "prebuild": "echo TESTTETSTEST TEST TSET",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
