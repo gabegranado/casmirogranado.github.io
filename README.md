@@ -125,6 +125,10 @@ It has 2 keys, *logo* and *sections*.
             "href": "/projects"
         },
         {
+            "title": "Dog",
+            "href": "/dog"
+        },
+        {
             "title": "Resume",
             "href": "https://drive.google.com/file/d/13kaPsdMNDsM4LV9g7m5-E5PTildp-yYf/view?usp=sharing",
             "type": "link"
@@ -174,6 +178,11 @@ It has 2 keys, *logo* and *sections*.
             "component": "Projects",
             "path": "/projects",
             "headerTitle": "Projects"
+        },
+        {
+            "component": "Dog",
+            "path": "/dog",
+            "headerTitle": "Dog"
         }
     ]
 }
